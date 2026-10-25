@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center group inside 66dp safe zone (21dp to 87dp) -->
+    <!-- Smart AI Sprout / Plant Leaf with Neural Circuit Accents -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Main vibrant leaf -->
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M54,28 C68,36 78,52 74,68 C71,78 63,84 54,86 C54,86 54,64 54,50 C54,38 54,28 54,28 Z" />
+        <!-- Left secondary leaf with gold accent -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M54,54 C44,52 32,58 30,70 C28,78 35,84 44,84 C48,84 52,82 54,80 C54,72 54,62 54,54 Z" />
+        <!-- Leaf spine & AI connection stem -->
+        <path
+            android:pathData="M54,88 L54,36"
+            android:strokeWidth="3"
+            android:strokeColor="#E8F5E9"
+            android:strokeLineCap="round" />
+        <!-- AI Circuit Nodes -->
+        <!-- Top Node -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,30 A4,4 0 1,0 54,22 A4,4 0 1,0 54,30 Z" />
+        <!-- Right branching node -->
+        <path
+            android:pathData="M54,52 L66,46"
+            android:strokeWidth="2"
+            android:strokeColor="#E8F5E9"
+            android:strokeLineCap="round" />
+        <path
+            android:fillColor="#E8F5E9"
+            android:pathData="M66,46 A3,3 0 1,0 66,40 A3,3 0 1,0 66,46 Z" />
+        <!-- Left branching node -->
+        <path
+            android:pathData="M54,66 L42,62"
+            android:strokeWidth="2"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M42,62 A2.5,2.5 0 1,0 42,57 A2.5,2.5 0 1,0 42,62 Z" />
+    </group>
+</vector>

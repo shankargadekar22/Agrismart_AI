@@ -1,0 +1,6 @@
+{
+  "name": "Smart Krushi AI",
+  "description": "Intelligent Agriculture System featuring ML crop recommendation, plant leaf disease detection, weather advisory, fertilizer calculator, and farmer dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
